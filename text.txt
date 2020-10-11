@@ -1,1 +1,2 @@
 practice git, sourcetree and Kdiff3 
+adding second line of text

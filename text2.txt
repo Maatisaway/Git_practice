@@ -1,3 +1,4 @@
 text added to the new text file
 added some more text to this file
+conflict resolving
 resolving conflict

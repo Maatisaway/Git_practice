@@ -1,3 +1,4 @@
 practice git, sourcetree and Kdiff3 
 adding second line of text
 original author of the file
+working on file at the same time
